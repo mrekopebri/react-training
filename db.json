@@ -1,56 +1,56 @@
 {
-    "books": [
-      {
-        "id": 1,
-        "title": "Digital Marketing",
-        "imageUrl": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png",
-        "author": "John Doe",
-        "year": 2019,
-        "stock": 10,
-        "rating": 5,
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "isLoan": true
-      },
-      {
-        "id": 2,
-        "title": "Adobe Photoshop CS 99",
-        "imageUrl": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-2-CRC.png",
-        "author": "John Doe",
-        "year": "2020",
-        "stock": "5",
-        "rating": "5",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "isLoan": false
-      },
-      {
-        "id": 3,
-        "title": "React JS v.16",
-        "imageUrl": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-1-CRC.png",
-        "author": "John Doe",
-        "year": 2021,
-        "stock": 2,
-        "rating": 5,
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "isLoan": false
-      },
-      {
-        "id": 4,
-        "title": "Money Grow",
-        "imageUrl": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-4-CRC.png",
-        "author": "John Doe",
-        "year": 2021,
-        "stock": 0,
-        "rating": 5,
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "isLoan": false
-      }
-    ],
-    "loanList": [
-      {
-        "id": 1,
-        "bookId": 1,
-        "loanDate": "20-12-2021",
-        "returnDate": "23-12-2021"
-      }
-    ]
-  }
+  "books": [
+    {
+      "id": 1,
+      "title": "Digital Marketing",
+      "imageUrl": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png",
+      "author": "John Doe",
+      "year": 2019,
+      "stock": 10,
+      "rating": 5,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "isLoan": true
+    },
+    {
+      "id": 2,
+      "title": "Adobe Photoshop CS 99",
+      "imageUrl": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-2-CRC.png",
+      "author": "John Doe",
+      "year": "2020",
+      "stock": "5",
+      "rating": "5",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "isLoan": false
+    },
+    {
+      "id": 3,
+      "title": "React JS v.16",
+      "imageUrl": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-1-CRC.png",
+      "author": "John Doe",
+      "year": 2021,
+      "stock": 2,
+      "rating": 5,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "isLoan": false
+    },
+    {
+      "id": 4,
+      "title": "Money Grow",
+      "imageUrl": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-4-CRC.png",
+      "author": "John Doe",
+      "year": 2021,
+      "stock": 0,
+      "rating": 5,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "isLoan": true
+    }
+  ],
+  "loanList": [
+    {
+      "id": 1,
+      "bookId": 1,
+      "loanDate": "20-12-2021",
+      "returnDate": "23-12-2021"
+    }
+  ]
+}
